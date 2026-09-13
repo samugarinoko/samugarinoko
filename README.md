@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47FF00&background=000000&width=435&lines=Hi!+I'm+Toma;I+am+a+student;I+love+Tomodachi+Life+%3A%29;Messing+with+HTML+%26+JS+a+%22tiny+bit.%22;Nice+to+meet+you!)]([https://git.io/typing-svg](https://toutube0tomatv.wixsite.com/toma-homepage))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47FF00&background=000000&width=435&lines=Hi!+I'm+Toma;I+am+a+student;I+love+Tomodachi+Life+%3A%29;Messing+with+HTML+%26+JS+a+%22tiny+bit.%22;Nice+to+meet+you!)](https://toutube0tomatv.wixsite.com/toma-homepage)
